@@ -6,7 +6,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NotificacaoAcoesConfirmadasFormandos.Connects
+namespace NotinaGerarQrcode2DiasAntesSessao.Connects
 {
     class Security
     {

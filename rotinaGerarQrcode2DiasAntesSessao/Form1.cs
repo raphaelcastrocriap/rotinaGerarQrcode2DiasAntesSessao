@@ -8,14 +8,14 @@ using System.Net;
 using System.Text;
 using System.Reflection;
 using System.Linq;
-using NotificacaoAcoesConfirmadasFormandos.Properties;
-using NotificacaoAcoesConfirmadasFormandos.Connects;
+using NotinaGerarQrcode2DiasAntesSessao.Properties;
+using NotinaGerarQrcode2DiasAntesSessao.Connects;
 using System.Net.Http;
 using Newtonsoft.Json;
-using static NotificacaoAcoesConfirmadasFormandos.Model.GestorEmailConfirmadosModel;
+using static NotinaGerarQrcode2DiasAntesSessao.Model.GestorEmailConfirmadosModel;
 using System.Threading.Tasks;
 
-namespace NotificacaoAcoesConfirmadasFormandos
+namespace NotinaGerarQrcode2DiasAntesSessao
 {
     public partial class Form1 : Form
     {

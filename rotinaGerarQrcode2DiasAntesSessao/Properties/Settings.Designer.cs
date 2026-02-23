@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace NotificacaoAcoesConfirmadasFormandos.Properties {
+namespace NotinaGerarQrcode2DiasAntesSessao.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

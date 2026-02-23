@@ -1,4 +1,4 @@
-﻿namespace NotificacaoAcoesConfirmadasFormandos
+﻿namespace NotinaGerarQrcode2DiasAntesSessao
 {
     partial class Form1
     {
