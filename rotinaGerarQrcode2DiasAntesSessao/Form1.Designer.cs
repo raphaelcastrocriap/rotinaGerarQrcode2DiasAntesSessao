@@ -1,4 +1,4 @@
-﻿namespace NotinaGerarQrcode2DiasAntesSessao
+﻿namespace RotinaGerarQrcode2DiasAntesSessao
 {
     partial class Form1
     {
@@ -44,9 +44,9 @@
             // 
             this.button1.Location = new System.Drawing.Point(18, 6);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(218, 24);
+            this.button1.Size = new System.Drawing.Size(340, 26);
             this.button1.TabIndex = 10;
-            this.button1.Text = "Enviar notificação";
+            this.button1.Text = "Gerar QRCode e Enviar (2 dias antecedência)";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -59,7 +59,7 @@
             this.Controls.Add(this.richTextBox1);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Notificação Ações Confirmadas Formadores";
+            this.Text = "Rotina QRCode F029B - Sessoes 2 Dias Antecedencia";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 

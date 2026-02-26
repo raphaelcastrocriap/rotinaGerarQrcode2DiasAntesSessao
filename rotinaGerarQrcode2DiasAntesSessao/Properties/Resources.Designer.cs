@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace NotinaGerarQrcode2DiasAntesSessao.Properties {
+namespace RotinaGerarQrcode2DiasAntesSessao.Properties {
     using System;
     
     

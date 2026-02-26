@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NotinaGerarQrcode2DiasAntesSessao.Connects
+namespace RotinaGerarQrcode2DiasAntesSessao.Connects
 {
     class Connect_HT_server
     {

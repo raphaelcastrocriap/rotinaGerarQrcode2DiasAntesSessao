@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace NotinaGerarQrcode2DiasAntesSessao.Connects
+namespace RotinaGerarQrcode2DiasAntesSessao.Connects
 {
     class Connect_WebSite
     {

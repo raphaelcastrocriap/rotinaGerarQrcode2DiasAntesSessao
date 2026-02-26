@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NotinaGerarQrcode2DiasAntesSessao.Model
+namespace RotinaGerarQrcode2DiasAntesSessao.Model
 {
     public class GestorEmailConfirmadosModel
     {
